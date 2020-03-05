@@ -1,104 +1,106 @@
 # 100 Days Of Code - 学習ログ
 
-### 1日目: 2020年2月15日（土）
+### 1日目: 2020年02月14日（金）
 
-**リンク** [2020年2月15日のツイート](https://twitter.com/akihanari/status/1228334658057752576?s=21)
-※できたらツイートを埋め込みにしたい
-
-
-### 2日目: 2020年2月16日（日）
-
-**リンク** [2020年2月16日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day1(一応今日からカウント):<br>今日やったこと:<br>・数学ガール/乱択アルゴリズム(〜40p)<br>・Beginners SelectionのB問題一問<br>・Udemy5本(58-62)<br>明日やること:<br>・ブログ書く<br>・コード晒す用のGitHubリポジトリ作成<br>・AtCoderハーフマラソン参加<br>・Udemy10本(63-72)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1228334658057752576?ref_src=twsrc%5Etfw">February 14, 2020</a></blockquote>
 
 
-### 3日目: 2020年2月17日（月）
+### 2日目: 2020年02月15日（土）
 
-**リンク** [2020年2月17日のツイート]()
-
-
-### 4日目: 2020年2月18日（火）
-
-**リンク** [2020年2月18日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day2:<br>今日やったこと:<br>・ブログ（AtomのGitHub切り替え）<br>・GitHub整備、最近のAtCoderで書いたコードを上げた<br>・ハーフマラソンは1時間で諦めてしまった...代わりにBeginners SelectionのB問題1問解いた<br>・Udemy6本(63-68)<br>明日やること:<br>・ブログ(Python)<br>・ABC参加<br>・Udemy10本<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1228727173336354816?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote>
 
 
-### 5日目: 2020年2月19日（水）
+### 3日目: 2020年02月16日（日）
 
-**リンク** [2020年2月19日のツイート]()
-
-
-### 6日目: 2020年2月20日（木）
-
-**リンク** [2020年2月20日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day3:<br>今日やったこと:<br>・ブログ(Python学習メモ)<br>・ABC155参加(D問題でTLE...)<br>・Udemy3本(69-71)<br>・Progate(HTML&amp;CSS初級編)<br>・GitHubでWebページを作成する方法について調べた<br>明日やること:<br>・ブログ<br>・ABC155の復習<br>・Udemy5本<br>・夜更かししない<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1229092728362848259?ref_src=twsrc%5Etfw">February 16, 2020</a></blockquote>
 
 
-### 7日目: 2020年2月21日（金）
+### 4日目: 2020年02月17日（月）
 
-**リンク** [2020年2月21日のツイート]()
-
-
-### 8日目: 2020年2月22日（土）
-
-**リンク** [2020年2月22日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day4:<br>今日やったこと:<br>・ブログ(Python学習メモ)<br>・Udemy6本(72-77)<br>・Atomの便利なパッケージを漁る<br>・COMITIA申込（※関係ない）<br>明日やること:<br>・ABC155の復習(今日はできなかった)<br>・Udemy5本<br>・ブログ<br>・Progate<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1229443024070963200?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote>
 
 
-### 9日目: 2020年2月23日（日）
+### 5日目: 2020年02月18日（火）
 
-**リンク** [2020年2月23日のツイート]()
-
-
-### 10日目: 2020年2月24日（月）
-
-**リンク** [2020年2月24日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day5:<br>今日やったこと:<br>・ブログ（Atomの便利なパッケージについて）<a href="https://t.co/rvb2JihUMw">https://t.co/rvb2JihUMw</a><br>・ABC155の復習（Dの解説、聞いても全然だったので明日他の人のコード見てじっくりやる）<br>・Udemy5本(78-82)<br>・Progate中級編(2/18)<br>・数学ガール（~p.50）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1229798258504953856?ref_src=twsrc%5Etfw">February 18, 2020</a></blockquote>
 
 
-### 11日目: 2020年2月25日（火）
+### 6日目: 2020年02月19日（水）
 
-**リンク** [2020年2月25日のツイート]()
-
-
-### 12日目: 2020年2月26日（水）
-
-**リンク** [2020年2月26日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day6:<br>今日やったこと:<br>・ブログ(リストについて)<a href="https://t.co/aiNHqpe2j4">https://t.co/aiNHqpe2j4</a><br>・Udemy5本(83-87)<br>・ABC155の復習<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1230274923865600000?ref_src=twsrc%5Etfw">February 19, 2020</a></blockquote>
 
 
-### 13日目: 2020年2月27日（木）
+### 7日目: 2020年02月20日（木）
 
-**リンク** [2020年2月27日のツイート]()
-
-
-### 14日目: 2020年2月28日（金）
-
-**リンク** [2020年2月28日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day7:<br>今日やったこと:<br>・ブログ(ディクショナリについて)<a href="https://t.co/P7TTDo8YG8">https://t.co/P7TTDo8YG8</a><br>・Udemy5本(88-92)<br>・数学ガール(〜p.126)<br>・Beginners Selection 1問解いた<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1230506006544670721?ref_src=twsrc%5Etfw">February 20, 2020</a></blockquote>
 
 
-### 15日目: 2020年2月29日（土）
+### 8日目: 2020年02月21日（金）
 
-**リンク** [2020年2月29日のツイート]()
-
-
-### 16日目: 2020年3月1日（日）
-
-**リンク** [2020年3月1日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day8:<br>今日やったこと:<br>・ブログ(セットについて)<a href="https://t.co/IpH9G2U9GA">https://t.co/IpH9G2U9GA</a><br>・Udemy5本(93-97)<br>・CをAtomでやる方法調べた<br>・bottleを仮想環境にインストールしてHelloWorldしてみた<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1230861012435271680?ref_src=twsrc%5Etfw">February 21, 2020</a></blockquote>
 
 
-### 17日目: 2020年3月2日（月）
+### 9日目: 2020年02月22日（土）
 
-**リンク** [2020年3月2日のツイート]()
-
-
-### 18日目: 2020年3月3日（火）
-
-**リンク** [2020年3月3日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day9:<br>・ブログ(内包表記について)<a href="https://t.co/od7cABfl4p">https://t.co/od7cABfl4p</a><br>・ABC156参加(D問題でTLE…)<br>・paizaのスキルチェック問題をD問題中心に50問以上解いた<br>・Pythonの擬人化イラスト描いた🐈<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1231258440091127808?ref_src=twsrc%5Etfw">February 22, 2020</a></blockquote>
 
 
-### 19日目: 2020年3月4日（水）
+### 10日目: 2020年02月23日（日）
 
-**リンク** [2020年3月4日のツイート]()
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day10:<br>今日やったこと<br>・ブログ(イテラブルとイテレータについて)<a href="https://t.co/wPVgFlcN9a">https://t.co/wPVgFlcN9a</a><br>・HTMLの勉強(bootstrap便利だなー)<br>体調回復した👾明日はがんばる<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1231608146994483200?ref_src=twsrc%5Etfw">February 23, 2020</a></blockquote>
 
 
-### 20日目: 2020年3月5日（木）
+### 11日目: 2020年02月24日（月）
 
-**今日の進捗**: 100DaysOfCodeのリポジトリをフォークしていままでの成果をコミットした。
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day11:<br>今日やったこと<br>・PyLadiesのもくもく会に参加<br>→Django Girlsのチュートリアルのデプロイまで進めた<br>・ブログ（PyLadiesのもくもく会について）<a href="https://t.co/XRBjbI9FbD">https://t.co/XRBjbI9FbD</a><br>・HTML/CSS(BootStrap)の勉強<br>・paizaのD問題10問以上解いた<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1231969198877753349?ref_src=twsrc%5Etfw">February 24, 2020</a></blockquote>
+
+
+### 12日目: 2020年02月25日（火）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day12:<br>今日やったこと<br>・ブログ（関数について）<a href="https://t.co/5MwWGrNkF8">https://t.co/5MwWGrNkF8</a><br>・Udemy5本（98-102）<br>・数学ガール/乱択アルゴリズム（〜p.169）<br>・paizaのD問題10問<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1232375807361740801?ref_src=twsrc%5Etfw">February 25, 2020</a></blockquote>
+
+
+### 13日目: 2020年02月26日（水）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day13:<br>今日やったこと<br>・ブログ（ジェネレータについて）<a href="https://t.co/EGv7sR9fFV">https://t.co/EGv7sR9fFV</a><br>・Udemy5本（103-107）<br>・paizaのD問題少し解いた<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1232796835963518981?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote>
+
+
+### 14日目: 2020年02月27日（木）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day14:<br>・Udemy5本(108-112)<br>・数学ガール/乱択アルゴリズム(〜p.192)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1233236000974893057?ref_src=twsrc%5Etfw">February 28, 2020</a></blockquote>
+
+### 15日目: 2020年02月28日（金）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day15:<br>・ブログ（デコレータについて）<a href="https://t.co/9SBUPGfhis">https://t.co/9SBUPGfhis</a><br>・数学ガール/乱択アルゴリズム(〜p.226)<br>・AtCoder Beginners Selection1問（あと1問！）<br>・paizaのスキルチェク D問題を10問(と、A問題にチャレンジしてみたけど返り討ちにあった...)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1233612524844486657?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote>
+
+
+### 16日目: 2020年02月29日（土）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day16:<br>・ブログ（evernoteを活用した勉強法について）<a href="https://t.co/hoWEefTT92">https://t.co/hoWEefTT92</a><br>・Qiitaデビューした<a href="https://t.co/g9NOM0Eal7">https://t.co/g9NOM0Eal7</a><br>・paizaのD問題5問<br><br>明日はDjango Girlsを進めたい💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1233796365278314496?ref_src=twsrc%5Etfw">February 29, 2020</a></blockquote>
+
+
+### 17日目: 2020年03月01日（日）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day17:<br>・ブログ（クラスについて①）<a href="https://t.co/7fwr6Hn8cf">https://t.co/7fwr6Hn8cf</a><br>・paizaのD問題10問<br>・ABC157参加<br>・ABCの復習（C問題）<br>・Aidemyの機械学習概論<br><br>Django Girls進められなかったので来週は進めたい...<br>AtCoderの復習はその日のうちにやるのがめんどくさくならなくていいと思った<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1234149538736140288?ref_src=twsrc%5Etfw">March 1, 2020</a></blockquote>
+
+
+### 18日目: 2020年03月02日（月）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day18:<br>・paizaD問題5問<br>・数学ガール/乱択アルゴリズム(-p.249)<br>・HTMLの勉強<br><br>今週は簡単なWebサイト作って上げるのが目標💪あと早寝早起き<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1234469584385662977?ref_src=twsrc%5Etfw">March 2, 2020</a></blockquote>
+
+
+### 19日目: 2020年03月03日（火）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day19:<br>・paizaD問題を全部クリアした<br>・Udemy5本(113-117)<br>・Slackbotを作り始めた（簡単な応答するくらい）<br>・ブログ（クラスについて②）<a href="https://t.co/L2V9Klc7Rl">https://t.co/L2V9Klc7Rl</a><br><br>明日はbotの作り込みをしたい🤖<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1234855311871270912?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote>
+
+
+### 20日目: 2020年03月04日（水）
+
+**リンク** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day20:<br>・paizaC問題5問<br>・Slackbotの開発を進めた(画像参照)<br>・ブログ（クラスについて③）<a href="https://t.co/W7aInt8P7A">https://t.co/W7aInt8P7A</a><br><br>あとは対話システムについて調べたりもした。<br>明日ははSlackbotをローカルでない環境で動かす方法を調べる（サーバー周り全然詳しくないので頑張る）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/aEXDZRWZb8">pic.twitter.com/aEXDZRWZb8</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1235245291382530048?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote>
+
+### 21日目: 2020年03月05日（木）
+
+**今日の進捗**: 取り組んだ内容を書く。
 
 **思ったこと** 感想を書く。
 
