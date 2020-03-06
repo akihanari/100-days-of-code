@@ -106,7 +106,7 @@
 
 **リンク** [Slackbot_repo](https://github.com/akihanari/Slackbot)
 
-### x日目: 20xx年x月xx日（x）
+### 22日目: 2020年03月06日（金）
 
 **今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day22:<br>・paizaC問題5問<br>・Slackbotの開発、結局エラー潰しきれなかったので明日また再挑戦<br>・ブログ（クラスの継承について）<a href="https://t.co/507htEiGjQ">https://t.co/507htEiGjQ</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1235977341949448192?ref_src=twsrc%5Etfw">March 6, 2020</a></blockquote>
 
