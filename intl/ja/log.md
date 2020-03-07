@@ -100,23 +100,33 @@
 
 ### 21日目: 2020年03月05日（木）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day21:<br>・paizaC問題2問, D問題1問<br>・Udemy5本（118-122）<br>・Slackbotの開発、Herokuにデプロイしようとしたけどエラーを潰せなかった...(明日やる)<br>・GitHubに学習記録用のリポジトリを作って今までの記録をまとめた<br>・100DaysOfCodeについてQiitaに記事を投稿した<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1235612607123316736?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day21:<br>・paizaC問題2問, D問題1問<br>・Udemy5本（118-122）<br>・Slackbotの開発、Herokuにデプロイしようとしたけどエラーを潰せなかった...(明日やる)<br>・GitHubに学習記録用のリポジトリを作って今までの記録をまとめた<br>・100DaysOfCodeについてQiitaに記事を投稿した<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1235612607123316736?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote>
 
-**思ったこと** 今までのログを全部まとめた（Twitter埋め込み便利!）。。100DaysOfCodeについてQiitaにまとめたけど、やっぱり頭の中の考えをアウトプットするのは難しいながら良い勉強になる。。。あとはサーバー周りの知識がないのでこれを機に強化していきたい。（Herokuについてもまだあまりよくわかっていない）freecodecampにも興味があるけどあんまりたくさん手を出しすぎるのもよくない。。。明日はエラーを潰して、Slackbotを常時稼働させたい。常時稼働が実現したら性能を少しずつ上げていきたい（あとはAPIを足していったり...）・あと、公式Slackに参加してrandamに挨拶してみた。英語力強化も目標！
+**思ったこと:** 今までのログを全部まとめた（Twitter埋め込み便利!）。。100DaysOfCodeについてQiitaにまとめたけど、やっぱり頭の中の考えをアウトプットするのは難しいながら良い勉強になる。。。あとはサーバー周りの知識がないのでこれを機に強化していきたい。（Herokuについてもまだあまりよくわかっていない）freecodecampにも興味があるけどあんまりたくさん手を出しすぎるのもよくない。。。明日はエラーを潰して、Slackbotを常時稼働させたい。常時稼働が実現したら性能を少しずつ上げていきたい（あとはAPIを足していったり...）・あと、公式Slackに参加してrandamに挨拶してみた。英語力強化も目標！
 
-**リンク** [Slackbot_repo](https://github.com/akihanari/Slackbot)
+**リンク:** [Slackbot_repo](https://github.com/akihanari/Slackbot)
 
 ### 22日目: 2020年03月06日（金）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day22:<br>・paizaC問題5問<br>・Slackbotの開発、結局エラー潰しきれなかったので明日また再挑戦<br>・ブログ（クラスの継承について）<a href="https://t.co/507htEiGjQ">https://t.co/507htEiGjQ</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1235977341949448192?ref_src=twsrc%5Etfw">March 6, 2020</a></blockquote>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day22:<br>・paizaC問題5問<br>・Slackbotの開発、結局エラー潰しきれなかったので明日また再挑戦<br>・ブログ（クラスの継承について）<a href="https://t.co/507htEiGjQ">https://t.co/507htEiGjQ</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1235977341949448192?ref_src=twsrc%5Etfw">March 6, 2020</a></blockquote>
 
-**思ったこと** 明日は、
+**思ったこと:** 明日は、
 + Slackbotのエラーを解決する
 + ABC158参加
 + DjangoGirlsを進める
 <br>あたりをやっていきたい。
 
-**リンク**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
+**リンク:**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
+
+
+### 23日目: 2020年03月07日（土）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day23:<br>・Slackbotの開発(Herokuにデプロイまでできたけど、カスタムインテグレーションは今推奨されていないのでBotUsersに切り替えようとしているところ...)<br>・ABC158参加(Bで詰まって駄目だった...)&amp;Dまで復習<br>・kaggle登録&amp;Titanic提出（解説記事見ながらやってみた）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1236349432976662528?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote>
+
+**思ったこと:** Slackbotについて...無事Herokuにデプロイすることができたが、カスタムインテグレーションは現在推奨されていないらしく、Slack BotのBot usersに切り替える方針にした。明日である程度完成まで持っていきたい！それと、(そのうち)Slack appを審査に通して公開するところまで持っていきたい...!ABC158について、今回はB問題で詰まってうまくいかなかったので、次回リベンジしたい。頑張る！！
+
+**リンク:**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
+
 
 --テンプレ--
 ### x日目: 20xx年x月xx日（x）
