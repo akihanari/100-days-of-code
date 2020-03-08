@@ -128,8 +128,16 @@
 **リンク:**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
 
 
+### 24日目: 2020年03月08日（日）
+
+**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day23:<br>・Slackbotの開発(Herokuにデプロイまでできたけど、カスタムインテグレーションは今推奨されていないのでBotUsersに切り替えようとしているところ...)<br>・ABC158参加(Bで詰まって駄目だった...)&amp;Dまで復習<br>・kaggle登録&amp;Titanic提出（解説記事見ながらやってみた）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1236349432976662528?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote>
+
+**思ったこと** 結局カスタムインテグレーションに戻した。このSlackbotの開発は一旦明日までとして、明後日以降はDjango Girlsの続きに取り掛かりたい。<br>Slackbotには何か一つ機能を付け足す予定。
+
+**リンク**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
+
 --テンプレ--
-### x日目: 20xx年x月xx日（x）
+### x日目: 2020年x月xx日（x）
 
 **今日の進捗**: 取り組んだ内容を書く。
 
