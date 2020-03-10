@@ -145,6 +145,17 @@
 
 **リンク** [Slackbot_repo](https://github.com/akihanari/Slackbot)
 
+
+### 26日目: 2020年03月10日（火）
+
+**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day26:<br>・Slackbotの開発(天気予報機能の作り込みをした)<br>・processingをインストールしてみた<br>・openprocessingをやってみた<br>・readmeの書き方を調べた<br>・paizaC問題3問<br>気になってたprocessing、プログラミングでお絵かきができるのはとても良さげ😉<a href="https://t.co/1NlkAzVGQ9">https://t.co/1NlkAzVGQ9</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/22GKlqOnO7">pic.twitter.com/22GKlqOnO7</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237438137019682816?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> 
+
+**思ったこと** 何か作品を作るのは、今まで学習した内容のいい復習になるなと実感した。明日はSlakcbotの電車遅延情報の作り込みが（できたら）したい。でもとりあえずはreadmeを書き上げるのを最優先にしてみる。それと、前から気になってたProcessingに入門した。JavaやJavaScript,Pythonでも書けるらしい。。。個人的にゲームを作るよりは、アート作品制作を目的に使いたいのでp5.js(JSのProcessing用ライブラリ、らしい)を学ぶことにした。作った作品はopenprocessingやポートフォリオサイトに随時公開していきたい。JSの勉強もしつつ。。。お絵描きが好きなので、結構自分と相性が良さそうな気がしている。
+
+**リンク**
+[Slackbot_repo](https://github.com/akihanari/Slackbot)
+[openprocessing sketch](https://www.openprocessing.org/sketch/855253)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
