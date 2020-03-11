@@ -156,6 +156,16 @@
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 [openprocessing sketch](https://www.openprocessing.org/sketch/855253)
 
+
+### 27日目: 2020年03月11日（水）
+
+**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day27:<br>・Slackbotの開発（電車遅延情報機能の作り込み...まだ甘いところあるけど...）<br>・readmeを5割ぐらい書いた<br>・Udemy5本（123-127）<br>・paizaC問題1問<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/WDygcSxrJr">pic.twitter.com/WDygcSxrJr</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237794624430682112?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote>
+
+**思ったこと** 今週中に一旦作り上げるところまでいきたい（Slackbot）。
+
+**リンク**
+[Slackbot_repo](https://github.com/akihanari/Slackbot)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
