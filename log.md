@@ -166,6 +166,16 @@
 **リンク**
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 
+### 28日目: 2020年3月12日（木）
+
+**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day28:<br>・Slackbotの開発（Readme7割ぐらい書けた）<br>・paizaC問題1問<br>・FreeCodeCampを始めた。<br>...Responsive Web Design Certification<br>　→Basic HTML and HTML5<br>　→Basic CSS<br>　→Applied Accessibility<br>・Processingで遊んだ<a href="https://t.co/dAXoFjkiqH">https://t.co/dAXoFjkiqH</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238136467542564866?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote>
+
+**思ったこと** FreeCodeCampを始めた。そろそろWebサイト（ポートフォリオサイト）を作りたいと思ったのも理由の一つ。また、プログラミングとは関係ないが、bandlabという、ブラウザで作曲ができるサービスを利用して、実際に2曲ほど作ってみた。これらのイメージ画像にProcessingで作ったスケッチを使ってみた(中々良かった)。ProcessingとCDジャケットは相性が良さそうだと思っているので、これからも作品をたくさん作っていきたい。それと、Party Parrotのドット絵GIFを作った。OSS活動があるらしいので、貢献してみようと思う。
+
+**リンク**
+[Slackbot_repo](https://github.com/akihanari/Slackbot)
+[bandlab](https://www.bandlab.com/akihanari)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
