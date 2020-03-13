@@ -176,6 +176,12 @@
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 [bandlab](https://www.bandlab.com/akihanari)
 
+### x日目: 2020年x月xx日（x）
+
+**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day29:<br>・FreeCodeCamp<br> →responsive Web Design Principles<br> →CSS Flexbox<br> →CSS Grid<br>・スラスラ読める JavaScriptふりがなプログラミング　読了<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238529688114352128?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote>
+
+**思ったこと** 今日は主にFreeCodeCampを進めた。プロジェクトのところまで進んだので、土日で出来るだけ進めたい。
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
