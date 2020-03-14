@@ -176,11 +176,20 @@
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 [bandlab](https://www.bandlab.com/akihanari)
 
-### x日目: 2020年x月xx日（x）
+### 29日目: 2020年3月13日（金）
 
 **今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day29:<br>・FreeCodeCamp<br> →responsive Web Design Principles<br> →CSS Flexbox<br> →CSS Grid<br>・スラスラ読める JavaScriptふりがなプログラミング　読了<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238529688114352128?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote>
 
 **思ったこと** 今日は主にFreeCodeCampを進めた。プロジェクトのところまで進んだので、土日で出来るだけ進めたい。
+
+### 30日目: 2020年3月14日（x）
+
+**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day30:<br>・FreeCodeCamp<br>→Responsive Web Design ProjectsのBuild a Tribute Page作成<a href="https://t.co/bQAXPF6Nnh">https://t.co/bQAXPF6Nnh</a><br>・AtCoder パナソニックプログラミングコンテスト2020 参加（2完）<br>・ABC過去問1問<br>・Linuxの勉強<br><br>AtCoderの問題を少しずつでも解くことにしました。早く入茶したい...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238851702620479488?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote>
+
+**思ったこと** 今日は主にFreeCodeCampのプロジェクトを進めて、1つ終わらせることができた（リンク参照）。CodePenは初めて触ったが、シンプルなのですぐに操作に慣れることができた。それと、VirtualBoxをインストールして、Linux(Ubuntu)の環境構築をした。AtCoderの問題は毎日少しずつでも継続して解いていきたい。明日もFreeCodeCampのプロジェクトを進める予定。
+
+**リンク**
+[FCC_TributePage](https://codepen.io/akihanari/full/NWqYOgP)
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
