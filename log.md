@@ -130,29 +130,29 @@
 
 ### 24日目: 2020年03月08日（日）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day23:<br>・Slackbotの開発(Herokuにデプロイまでできたけど、カスタムインテグレーションは今推奨されていないのでBotUsersに切り替えようとしているところ...)<br>・ABC158参加(Bで詰まって駄目だった...)&amp;Dまで復習<br>・kaggle登録&amp;Titanic提出（解説記事見ながらやってみた）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1236349432976662528?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote>
+**今日の進捗:**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day23:<br>・Slackbotの開発(Herokuにデプロイまでできたけど、カスタムインテグレーションは今推奨されていないのでBotUsersに切り替えようとしているところ...)<br>・ABC158参加(Bで詰まって駄目だった...)&amp;Dまで復習<br>・kaggle登録&amp;Titanic提出（解説記事見ながらやってみた）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1236349432976662528?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote>
 
-**思ったこと** 結局カスタムインテグレーションに戻した。このSlackbotの開発は一旦明日までとして、明後日以降はDjango Girlsの続きに取り掛かりたい。<br>Slackbotには何か一つ機能を付け足す予定。
+**思ったこと:** 結局カスタムインテグレーションに戻した。このSlackbotの開発は一旦明日までとして、明後日以降はDjango Girlsの続きに取り掛かりたい。<br>Slackbotには何か一つ機能を付け足す予定。
 
-**リンク**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
+**リンク:**　[Slackbot_repo](https://github.com/akihanari/Slackbot)
 
 
 ### 25日目: 2020年03月09日（月）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day25:<br>・Slackbotの開発（いくつか機能を追加。エラーがいくつかあるのでそれを解決したい...）<br><br>毎日ツイートする時間決めないとたまに忘れる...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237151210085289986?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day25:<br>・Slackbotの開発（いくつか機能を追加。エラーがいくつかあるのでそれを解決したい...）<br><br>毎日ツイートする時間決めないとたまに忘れる...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237151210085289986?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote>
 
-**思ったこと** 明日はもっと進めたい...
+**思ったこと:** 明日はもっと進めたい...
 
-**リンク** [Slackbot_repo](https://github.com/akihanari/Slackbot)
+**リンク:** [Slackbot_repo](https://github.com/akihanari/Slackbot)
 
 
 ### 26日目: 2020年03月10日（火）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day26:<br>・Slackbotの開発(天気予報機能の作り込みをした)<br>・processingをインストールしてみた<br>・openprocessingをやってみた<br>・readmeの書き方を調べた<br>・paizaC問題3問<br>気になってたprocessing、プログラミングでお絵かきができるのはとても良さげ😉<a href="https://t.co/1NlkAzVGQ9">https://t.co/1NlkAzVGQ9</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/22GKlqOnO7">pic.twitter.com/22GKlqOnO7</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237438137019682816?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> 
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day26:<br>・Slackbotの開発(天気予報機能の作り込みをした)<br>・processingをインストールしてみた<br>・openprocessingをやってみた<br>・readmeの書き方を調べた<br>・paizaC問題3問<br>気になってたprocessing、プログラミングでお絵かきができるのはとても良さげ😉<a href="https://t.co/1NlkAzVGQ9">https://t.co/1NlkAzVGQ9</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/22GKlqOnO7">pic.twitter.com/22GKlqOnO7</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237438137019682816?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> 
 
-**思ったこと** 何か作品を作るのは、今まで学習した内容のいい復習になるなと実感した。明日はSlakcbotの電車遅延情報の作り込みが（できたら）したい。でもとりあえずはreadmeを書き上げるのを最優先にしてみる。それと、前から気になってたProcessingに入門した。JavaやJavaScript,Pythonでも書けるらしい。。。個人的にゲームを作るよりは、アート作品制作を目的に使いたいのでp5.js(JSのProcessing用ライブラリ、らしい)を学ぶことにした。作った作品はopenprocessingやポートフォリオサイトに随時公開していきたい。JSの勉強もしつつ。。。お絵描きが好きなので、結構自分と相性が良さそうな気がしている。
+**思ったこと:** 何か作品を作るのは、今まで学習した内容のいい復習になるなと実感した。明日はSlakcbotの電車遅延情報の作り込みが（できたら）したい。でもとりあえずはreadmeを書き上げるのを最優先にしてみる。それと、前から気になってたProcessingに入門した。JavaやJavaScript,Pythonでも書けるらしい。。。個人的にゲームを作るよりは、アート作品制作を目的に使いたいのでp5.js(JSのProcessing用ライブラリ、らしい)を学ぶことにした。作った作品はopenprocessingやポートフォリオサイトに随時公開していきたい。JSの勉強もしつつ。。。お絵描きが好きなので、結構自分と相性が良さそうな気がしている。
 
-**リンク**
+**リンク:**
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 [openprocessing sketch](https://www.openprocessing.org/sketch/855253)
 
@@ -161,43 +161,55 @@
 
 **今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day27:<br>・Slackbotの開発（電車遅延情報機能の作り込み...まだ甘いところあるけど...）<br>・readmeを5割ぐらい書いた<br>・Udemy5本（123-127）<br>・paizaC問題1問<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/WDygcSxrJr">pic.twitter.com/WDygcSxrJr</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1237794624430682112?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote>
 
-**思ったこと** 今週中に一旦作り上げるところまでいきたい（Slackbot）。
+**思ったこと:** 今週中に一旦作り上げるところまでいきたい（Slackbot）。
 
-**リンク**
+**リンク:**
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 
 ### 28日目: 2020年3月12日（木）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day28:<br>・Slackbotの開発（Readme7割ぐらい書けた）<br>・paizaC問題1問<br>・FreeCodeCampを始めた。<br>...Responsive Web Design Certification<br>　→Basic HTML and HTML5<br>　→Basic CSS<br>　→Applied Accessibility<br>・Processingで遊んだ<a href="https://t.co/dAXoFjkiqH">https://t.co/dAXoFjkiqH</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238136467542564866?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day28:<br>・Slackbotの開発（Readme7割ぐらい書けた）<br>・paizaC問題1問<br>・FreeCodeCampを始めた。<br>...Responsive Web Design Certification<br>　→Basic HTML and HTML5<br>　→Basic CSS<br>　→Applied Accessibility<br>・Processingで遊んだ<a href="https://t.co/dAXoFjkiqH">https://t.co/dAXoFjkiqH</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238136467542564866?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote>
 
-**思ったこと** FreeCodeCampを始めた。そろそろWebサイト（ポートフォリオサイト）を作りたいと思ったのも理由の一つ。また、プログラミングとは関係ないが、bandlabという、ブラウザで作曲ができるサービスを利用して、実際に2曲ほど作ってみた。これらのイメージ画像にProcessingで作ったスケッチを使ってみた(中々良かった)。ProcessingとCDジャケットは相性が良さそうだと思っているので、これからも作品をたくさん作っていきたい。それと、Party Parrotのドット絵GIFを作った。OSS活動があるらしいので、貢献してみようと思う。
+**思ったこと:** FreeCodeCampを始めた。そろそろWebサイト（ポートフォリオサイト）を作りたいと思ったのも理由の一つ。また、プログラミングとは関係ないが、bandlabという、ブラウザで作曲ができるサービスを利用して、実際に2曲ほど作ってみた。これらのイメージ画像にProcessingで作ったスケッチを使ってみた(中々良かった)。ProcessingとCDジャケットは相性が良さそうだと思っているので、これからも作品をたくさん作っていきたい。それと、Party Parrotのドット絵GIFを作った。OSS活動があるらしいので、貢献してみようと思う。
 
-**リンク**
+**リンク:**
 [Slackbot_repo](https://github.com/akihanari/Slackbot)
 [bandlab](https://www.bandlab.com/akihanari)
 
 ### 29日目: 2020年3月13日（金）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day29:<br>・FreeCodeCamp<br> →responsive Web Design Principles<br> →CSS Flexbox<br> →CSS Grid<br>・スラスラ読める JavaScriptふりがなプログラミング　読了<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238529688114352128?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day29:<br>・FreeCodeCamp<br> →responsive Web Design Principles<br> →CSS Flexbox<br> →CSS Grid<br>・スラスラ読める JavaScriptふりがなプログラミング　読了<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238529688114352128?ref_src=twsrc%5Etfw">March 13, 2020</a></blockquote>
 
-**思ったこと** 今日は主にFreeCodeCampを進めた。プロジェクトのところまで進んだので、土日で出来るだけ進めたい。
+**思ったこと:** 今日は主にFreeCodeCampを進めた。プロジェクトのところまで進んだので、土日で出来るだけ進めたい。
 
-### 30日目: 2020年3月14日（x）
+### 30日目: 2020年3月14日（土）
 
-**今日の進捗**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day30:<br>・FreeCodeCamp<br>→Responsive Web Design ProjectsのBuild a Tribute Page作成<a href="https://t.co/bQAXPF6Nnh">https://t.co/bQAXPF6Nnh</a><br>・AtCoder パナソニックプログラミングコンテスト2020 参加（2完）<br>・ABC過去問1問<br>・Linuxの勉強<br><br>AtCoderの問題を少しずつでも解くことにしました。早く入茶したい...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238851702620479488?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day30:<br>・FreeCodeCamp<br>→Responsive Web Design ProjectsのBuild a Tribute Page作成<a href="https://t.co/bQAXPF6Nnh">https://t.co/bQAXPF6Nnh</a><br>・AtCoder パナソニックプログラミングコンテスト2020 参加（2完）<br>・ABC過去問1問<br>・Linuxの勉強<br><br>AtCoderの問題を少しずつでも解くことにしました。早く入茶したい...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1238851702620479488?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote>
 
-**思ったこと** 今日は主にFreeCodeCampのプロジェクトを進めて、1つ終わらせることができた（リンク参照）。CodePenは初めて触ったが、シンプルなのですぐに操作に慣れることができた。それと、VirtualBoxをインストールして、Linux(Ubuntu)の環境構築をした。AtCoderの問題は毎日少しずつでも継続して解いていきたい。明日もFreeCodeCampのプロジェクトを進める予定。
+**思ったこと:** 今日は主にFreeCodeCampのプロジェクトを進めて、1つ終わらせることができた（リンク参照）。CodePenは初めて触ったが、シンプルなのですぐに操作に慣れることができた。それと、VirtualBoxをインストールして、Linux(Ubuntu)の環境構築をした。AtCoderの問題は毎日少しずつでも継続して解いていきたい。明日もFreeCodeCampのプロジェクトを進める予定。
 
-**リンク**
+**リンク:**
 [FCC_TributePage](https://codepen.io/akihanari/full/NWqYOgP)
+
+
+### 31日目: 2020年03月15日（日）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day31:<br>・ポートフォリオサイトを作った<a href="https://t.co/Ovv8lEVETu">https://t.co/Ovv8lEVETu</a><br>・ABC過去問:A問題×3<br>・openprocessingで1作品(Parrot)<br>・Linuxの勉強<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/EnHhKAuuc0">pic.twitter.com/EnHhKAuuc0</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1239214941904572416?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote>
+
+**思ったこと:** 今日は主にポートフォリオサイトの制作をした。これからどんどん作品を作って追加していきたい。
+
+**リンク:**
+[Portfolio Site](https://akihanari.github.io/)
+[OpenProcessing-Parrot-](https://www.openprocessing.org/sketch/857901)
+
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
-**今日の進捗**: 取り組んだ内容を書く。
+**今日の進捗:** 取り組んだ内容を書く。
 
-**思ったこと** 感想を書く。
+**思ったこと:** 感想を書く。
 
-**リンク**
+**リンク:**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
