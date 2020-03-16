@@ -130,7 +130,7 @@
 
 ### 24日目: 2020年03月08日（日）
 
-**今日の進捗:**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day23:<br>・Slackbotの開発(Herokuにデプロイまでできたけど、カスタムインテグレーションは今推奨されていないのでBotUsersに切り替えようとしているところ...)<br>・ABC158参加(Bで詰まって駄目だった...)&amp;Dまで復習<br>・kaggle登録&amp;Titanic提出（解説記事見ながらやってみた）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1236349432976662528?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote>
+**今日の進捗:**: <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day24:<br>・AtCoder 日立製作所 社会システム事業部 プログラミングコンテスト2020 参加<br>・paizaC問題3問（提出率が50%になった！）<br>・BotUsersの切り替えを諦めて元に戻した（時間かかりすぎなのでこれの開発は一旦明日までにして次に行く異にする）<br>早く色をつけたい...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1236716859715510272?ref_src=twsrc%5Etfw">March 8, 2020</a></blockquote>
 
 **思ったこと:** 結局カスタムインテグレーションに戻した。このSlackbotの開発は一旦明日までとして、明後日以降はDjango Girlsの続きに取り掛かりたい。<br>Slackbotには何か一つ機能を付け足す予定。
 
