@@ -153,8 +153,8 @@
 **思ったこと:** 何か作品を作るのは、今まで学習した内容のいい復習になるなと実感した。明日はSlakcbotの電車遅延情報の作り込みが（できたら）したい。でもとりあえずはreadmeを書き上げるのを最優先にしてみる。それと、前から気になってたProcessingに入門した。JavaやJavaScript,Pythonでも書けるらしい。。。個人的にゲームを作るよりは、アート作品制作を目的に使いたいのでp5.js(JSのProcessing用ライブラリ、らしい)を学ぶことにした。作った作品はopenprocessingやポートフォリオサイトに随時公開していきたい。JSの勉強もしつつ。。。お絵描きが好きなので、結構自分と相性が良さそうな気がしている。
 
 **リンク:**
-[Slackbot_repo](https://github.com/akihanari/Slackbot)
-[openprocessing sketch](https://www.openprocessing.org/sketch/855253)
+1. [Slackbot_repo](https://github.com/akihanari/Slackbot)
+2. [openprocessing sketch](https://www.openprocessing.org/sketch/855253)
 
 
 ### 27日目: 2020年03月11日（水）
@@ -173,8 +173,8 @@
 **思ったこと:** FreeCodeCampを始めた。そろそろWebサイト（ポートフォリオサイト）を作りたいと思ったのも理由の一つ。また、プログラミングとは関係ないが、bandlabという、ブラウザで作曲ができるサービスを利用して、実際に2曲ほど作ってみた。これらのイメージ画像にProcessingで作ったスケッチを使ってみた(中々良かった)。ProcessingとCDジャケットは相性が良さそうだと思っているので、これからも作品をたくさん作っていきたい。それと、Party Parrotのドット絵GIFを作った。OSS活動があるらしいので、貢献してみようと思う。
 
 **リンク:**
-[Slackbot_repo](https://github.com/akihanari/Slackbot)
-[bandlab](https://www.bandlab.com/akihanari)
+1. [Slackbot_repo](https://github.com/akihanari/Slackbot)
+2. [bandlab](https://www.bandlab.com/akihanari)
 
 ### 29日目: 2020年3月13日（金）
 
@@ -199,8 +199,8 @@
 **思ったこと:** 今日は主にポートフォリオサイトの制作をした。これからどんどん作品を作って追加していきたい。
 
 **リンク:**
-[Portfolio Site](https://akihanari.github.io/)
-[OpenProcessing-Parrot-](https://www.openprocessing.org/sketch/857901)
+1. [Portfolio Site](https://akihanari.github.io/)
+2. [OpenProcessing-Parrot-](https://www.openprocessing.org/sketch/857901)
 
 
 ### ３２日目: 2020年03月16日（月）
@@ -210,10 +210,10 @@
 **思ったこと:** 今日は主にSlackbotのWikiを書く作業をした。完全ではないけど、とりあえず完成まで持っていくことができた。それと、先週PartyParrotのOSSに送ったプルリクが反映された。OSS活動は初めてで、オーナーとのやり取りも勿論英語だったのでやや緊張したがとてもいい勉強になった。JSONファイルでconflictが発生してしまったのでそれを修正したりもした。Rythmical Parrotという、サングラスを掛けたParrotの後ろに音符が動いているGIF画像（手打ちのドット）を作成した。オーナーには気に入ってもらえたようなので良かった。今回の作業は画像を作って、JSONファイルにいくらか追記する程度だったので、また近々別のOSSに貢献してみたい。明日はしばらく更新していなかったブログと、DjangoGirlsのチュートリアルを進めていきたい。
 
 **リンク:**
-[Slackbot/for-ni-to](https://github.com/akihanari/Slackbot)
-[Cult of the Party Parrot-GitHub](https://github.com/jmhobbs/cultofthepartyparrot.com)
-[Cult of the Party Parrot-Website](https://cultofthepartyparrot.com/)
-[Portfolio Site](https://akihanari.github.io/)
+1. [Slackbot/for-ni-to](https://github.com/akihanari/Slackbot)
+2. [Cult of the Party Parrot-GitHub](https://github.com/jmhobbs/cultofthepartyparrot.com)
+3. [Cult of the Party Parrot-Website](https://cultofthepartyparrot.com/)
+4. [Portfolio Site](https://akihanari.github.io/)  
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
