@@ -203,6 +203,18 @@
 [OpenProcessing-Parrot-](https://www.openprocessing.org/sketch/857901)
 
 
+### ３２日目: 2020年03月16日（月）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day32:<br>・SlackbotのWikiページ作成（一旦完成）<br>・PartyParrotのOSSに貢献した（RythmicalParrot）<br>・上記をポートフォリオサイトに追加<br>・ABC過去問:A問題×3<br>・Linuxの勉強<a href="https://t.co/5VoXveVweM">https://t.co/5VoXveVweM</a><a href="https://t.co/nU6VfJThpQ">https://t.co/nU6VfJThpQ</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1239625092700590090?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote>
+
+**思ったこと:** 今日は主にSlackbotのWikiを書く作業をした。完全ではないけど、とりあえず完成まで持っていくことができた。それと、先週PartyParrotのOSSに送ったプルリクが反映された。OSS活動は初めてで、オーナーとのやり取りも勿論英語だったのでやや緊張したがとてもいい勉強になった。JSONファイルでconflictが発生してしまったのでそれを修正したりもした。Rythmical Parrotという、サングラスを掛けたParrotの後ろに音符が動いているGIF画像（手打ちのドット）を作成した。オーナーには気に入ってもらえたようなので良かった。今回の作業は画像を作って、JSONファイルにいくらか追記する程度だったので、また近々別のOSSに貢献してみたい。明日はしばらく更新していなかったブログと、DjangoGirlsのチュートリアルを進めていきたい。
+
+**リンク:**
+[Slackbot/for-ni-to](https://github.com/akihanari/Slackbot)
+[Cult of the Party Parrot-GitHub](https://github.com/jmhobbs/cultofthepartyparrot.com)
+[Cult of the Party Parrot-Website](https://cultofthepartyparrot.com/)
+[Portfolio Site](https://akihanari.github.io/)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
