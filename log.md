@@ -215,6 +215,19 @@
 3. [Cult of the Party Parrot-Website](https://cultofthepartyparrot.com/)
 4. [Portfolio Site](https://akihanari.github.io/)  
 
+
+### 33日目: 2020年03月17日（火）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day33:<br>・ABCのA問題5問<br>・turtleについて調べた(今度やってみたい)<br>・ブログの下書き(Python)<br>たくさん寝たので今日は頑張るぞ😾<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1240036666867253249?ref_src=twsrc%5Etfw">March 17, 2020</a></blockquote>
+
+
+### 34日目: 2020年03月18日（水）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day34:<br>・ABC-A×5<br>・東京都新型コロナウイルス対策サイトのGitHubに少し貢献しました<br><br>明日はコードをいっぱい書く💪<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1240313649081675778?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote>
+
+**リンク:**
+[covid19](https://github.com/tokyo-metropolitan-gov/covid19)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
