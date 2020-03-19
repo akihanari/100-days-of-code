@@ -228,6 +228,16 @@
 **リンク:**
 [covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 
+### ３５日目: 2020年03月19日（木）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day35:<br>・ABC-A×3<br>・アマビエのGIFを作ってgithubにのっけた（完全にPartyParrotを意識した）→各色分あるので明日のっける＆背景透過させたverを作る<a href="https://t.co/iLHtw96Sa4">https://t.co/iLHtw96Sa4</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1240703431582470144?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote>
+
+**思ったこと:** 今日は巷で流行しているアマビエのドット絵GIFアニメを作った。PartyParrotみたいに自由に使える（Slack用の絵文字としてとか）ようにしたくてWebページも（簡易だけど）用意した。今回はBootstrapを利用。明日は背景を透過させた各色分のアマビエアニメーションGIFと静止画GIFをUPする予定。(余裕があればfabiconも設定したい...)あとはSlack用の絵文字として一括で設定（？）できるようなZIPファイルも用意できれば最高だと思う。明日でひとまず終わらせたい。
+
+**リンク:**
+[gif-amabie](https://akihanari.github.io/gif-amabie/)
+
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
