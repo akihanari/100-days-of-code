@@ -238,6 +238,16 @@
 [gif-amabie](https://akihanari.github.io/gif-amabie/)
 
 
+### ３６日目: 2020年03月20日（金）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day36:<br>・ABC-A×3<br>・昨日作ったアマビエGIFのサイトをいい感じにした<a href="https://t.co/iLHtw96Sa4">https://t.co/iLHtw96Sa4</a><br>明日はPythonをがっつりやりたい🐍<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/4jgBRCMwTx">pic.twitter.com/4jgBRCMwTx</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1241037075882762241?ref_src=twsrc%5Etfw">March 20, 2020</a></blockquote>
+
+**思ったこと:** 今日は昨日作ったアマビエのサイトをいい感じにした。背景透過GIFにして、ZIPファイルも用意した。ついでにfaviconとtouch iconなんかも設定してみた。
+明日はブログを上げたい！
+
+**リンク:**
+[gif-amabie](https://akihanari.github.io/gif-amabie/)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
