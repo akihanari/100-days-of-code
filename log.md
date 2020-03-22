@@ -258,6 +258,15 @@
 **リンク:**
 [sketch](https://www.openprocessing.org/sketch/860403)
 
+### 38日目: 2020年03月22日（日）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day38:<br>・ABC-A×3<br>・ABC159参加(3完)<br>・PyLadiesでCTFをやった<br>・ブログ（今日のPyLadiesについて）<a href="https://t.co/ZvMTrLieSJ">https://t.co/ZvMTrLieSJ</a><br>来週のTODOリストを今から作って計画的に進める...！<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1241766928437243904?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote>
+
+**思ったこと:** CTFは今日初めて取り組んだが、なかなか面白かったのでちょこちょこやってみようと思う。来週の目標はタスク管理をきちんとして、計画的に学習やアウトプットを進めること！
+
+**リンク:**
+[note](https://note.com/akihanari/n/nf22d62802723)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
