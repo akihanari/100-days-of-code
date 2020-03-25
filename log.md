@@ -267,6 +267,12 @@
 **リンク:**
 [note](https://note.com/akihanari/n/nf22d62802723)
 
+
+### 39日目: 2020年03月24日（火）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day39:<br>・ABC-A×3<br>・Pythonふりがなプログラミング<a href="https://t.co/MPihSKi5qK">https://t.co/MPihSKi5qK</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1242513410891214849?ref_src=twsrc%5Etfw">March 24, 2020</a></blockquote>
+
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
