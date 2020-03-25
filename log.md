@@ -273,6 +273,15 @@
 **今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day39:<br>・ABC-A×3<br>・Pythonふりがなプログラミング<a href="https://t.co/MPihSKi5qK">https://t.co/MPihSKi5qK</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1242513410891214849?ref_src=twsrc%5Etfw">March 24, 2020</a></blockquote>
 
 
+### 40日目: 2020年03月25日（水）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day40:<br>・ABC-A×3<br>・Pythonistaで遊んだ<br>・Django GirlsのHTML入門まで進めた<br><br>Django Girlsなんだかんだで一ヶ月ぶりだったから思い出すのに時間かかった...明日はCの復習を少しずつ進めたい😾<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1242832374611595264?ref_src=twsrc%5Etfw">March 25, 2020</a></blockquote>
+
+**思ったこと:** 明日からはそろそろC言語の勉強も進めていきたい。Django Girlsは今週中に一旦完成まで持っていきたい。
+
+**リンク:**
+[my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
