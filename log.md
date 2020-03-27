@@ -282,6 +282,13 @@
 **リンク:**
 [my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)
 
+### 41日目: 2020年03月27日（金）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day41:<br>・ABC-A×5<br>・Django Girls完走<a href="https://t.co/2JiCZ4FOqv">https://t.co/2JiCZ4FOqv</a><br><br>次はextensionsをやってみて、そして何か作れたら良いな〜〜🥴<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1243606543985188864?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote>
+
+**リンク:**
+[my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
