@@ -288,6 +288,7 @@
 
 **リンク:**
 [my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)
+[note](https://note.com/akihanari/n/n870397434420)
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
