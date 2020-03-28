@@ -290,6 +290,19 @@
 [my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)
 [note](https://note.com/akihanari/n/n870397434420)
 
+
+### 42日目: 2020年03月28日（土）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day42:<br>・ABC-A×8<br>・ABC160参加(2完)<br>・Django Girls Extensionsをやった<a href="https://t.co/xZ5cp0IdWt">https://t.co/xZ5cp0IdWt</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1243978560475246592?ref_src=twsrc%5Etfw">March 28, 2020</a></blockquote>
+
+**思ったこと:** 今日は主に[Django Girls Extensions](https://tutorial-extensions.djangogirls.org/ja/)を進めた。
+明日はこれのコードをいじってオリジナリティを出していきたい。音楽の作品ページとして作るのもいいかもしれない。
+
+**リンク:**
+[my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)<br>
+[my-first-blog(python anywhere)](http://akihanari.pythonanywhere.com/)
+
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
