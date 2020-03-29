@@ -302,6 +302,13 @@
 [my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)<br>
 [my-first-blog(python anywhere)](http://akihanari.pythonanywhere.com/)
 
+### 43日目: 2020年03月29日（日）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day43:<br>・ABC-A×3<br>・昨日作ったブログのCSSを整えた&amp;エディタをいい感じにした(1枚目がbefore)<br><br>ローカル環境ではうまくいったけどデプロイがうまくいかなかったので明日やろう...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/8YtXrvzzm0">pic.twitter.com/8YtXrvzzm0</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1244336434703548416?ref_src=twsrc%5Etfw">March 29, 2020</a></blockquote>
+
+**リンク:**
+[my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)<br>
+[my-first-blog(python anywhere)](http://akihanari.pythonanywhere.com/)
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
