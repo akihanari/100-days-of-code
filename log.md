@@ -310,6 +310,27 @@
 [my-first-blog(GitHub)](https://github.com/akihanari/my-first-blog)<br>
 [my-first-blog(python anywhere)](http://akihanari.pythonanywhere.com/)
 
+### 44日目: 2020年03月30日（月）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day44:<br>・ABC-A×3<br>・C言語の復習<br><br>改めて振り返ると色々と発見があるな〜🧐💡 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1244651255420661761?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote>
+
+
+### 45日目: 2020年04月01日（水）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day45:<br>・ABC-A×13<br>・機能を追加したブログ、pythonanywhereだとうまくいかなかったのでHerokuでやることにした<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1245356056470941697?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote>
+
+
+### 46日目: 2020年04月03日（金）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day46:<br>・ABC-A×12<br>・HerokuにDjangoGirlsTutorialで作ったブログをデプロイ<a href="https://t.co/ZkUxo5BH6N">https://t.co/ZkUxo5BH6N</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1246146895799410689?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote>
+
+**思ったこと:** 基本的に[Django Girls Tutorial: Extensions](https://tutorial-extensions.djangogirls.org/en/)を参考に進めたが、Herokuのデプロイになかなか苦戦した。中でもwhitenoiseの最新バージョンだとsettings.py等の記述の仕方が変わっているので、チュートリアル通りに進めてもうまくいかなかった（whitenoiseのドキュメント通りに対処すればうまくいった）PotgreSQLも使いこなせるようになりたい。明日は今まで作ったものや取り組んだことをブログにまとめたり、ポートフォリオサイトの内容を更新したりしたい。
+
+**リンク:**
+[Hanari's Workshop](https://ha-workshop.herokuapp.com/)
+
+
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
 
