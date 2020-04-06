@@ -330,6 +330,19 @@
 **リンク:**
 [Hanari's Workshop](https://ha-workshop.herokuapp.com/)
 
+### 47日目: 2020年04月04日（土）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day47:<br>・ABC161参加（3完）<br>・GCJ参加（42点取れた）<br>あとはXCode触ろうとしたらOSアップグレードしてねって言われたのでその作業をやったりしてました<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1246563224700379136?ref_src=twsrc%5Etfw">April 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 48日目: 2020年04月05日（日）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day48:<br>・ABC-A×3<br>・負荷コンテスト2完<br><br>毎日少しずつ🤏でもやるんだ…<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1246921658247471105?ref_src=twsrc%5Etfw">April 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 47日目: 2020年04月06日（月）
+
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day49:<br>・ABC-A ×3<br><br>明日はブログ書くかgithubに草を生やすかしたい<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1247175355376361472?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
