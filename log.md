@@ -337,12 +337,51 @@
 
 ### 48日目: 2020年04月05日（日）
 
-**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day48:<br>・ABC-A×3<br>・負荷コンテスト2完<br><br>毎日少しずつ🤏でもやるんだ…<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1246921658247471105?ref_src=twsrc%5Etfw">April 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day48:<br>・ABC-A×3<br>・負荷コンテスト2完<br><br>毎日少しずつ🤏でもやるんだ…<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1246921658247471105?ref_src=twsrc%5Etfw">April 5, 2020</a></blockquote>
 
 
-### 47日目: 2020年04月06日（月）
+### 49日目: 2020年04月06日（月）
 
-**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day49:<br>・ABC-A ×3<br><br>明日はブログ書くかgithubに草を生やすかしたい<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1247175355376361472?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day49:<br>・ABC-A ×3<br><br>明日はブログ書くかgithubに草を生やすかしたい<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1247175355376361472?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote>
+
+### 50日目: 2020年04月07日（火）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day50:<br>・ABC-A×9<br>来週はもっとできるようになりたい…<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1247666953180725248?ref_src=twsrc%5Etfw">April 7, 2020</a></blockquote>
+
+### 51日目: 2020年04月08日（水）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day51:<br>・ABC-A×5<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1248036732185899008?ref_src=twsrc%5Etfw">April 8, 2020</a></blockquote>
+
+### 52日目: 2020年04月10日（金）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day52:<br>・ABC×3<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1248395000980729862?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote>
+
+### 53日目: 2020年04月11日（土）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day53:<br>・ABC×1 😿<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1249226285940789248?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote>
+
+### 54日目: 2020年04月12日（日）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day54:<br>・ABC162参加（3完）<br>Current Streakが30daysになった✌️<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/P5KEgreR7Z">pic.twitter.com/P5KEgreR7Z</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1249379793390321664?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote>
+
+### 55日目: 2020年04月14日（火）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day55:<br>・ABC-A×1😢<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1250067971420160003?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote>
+
+### 56日目: 2020年04月16日（木）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day56:<br>・ABC-A×1😢<br><br>今日は何もできなかったので明日がんばります...<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1250789839491883008?ref_src=twsrc%5Etfw">April 16, 2020</a></blockquote>
+
+### 57日目: 2020年04月19日（日）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day57:<br>・ABC163参加(3完)<br>最近進捗0だったけど少しずつ頑張ります<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1251946472460804096?ref_src=twsrc%5Etfw">April 19, 2020</a></blockquote>
+
+### 58日目: 2020年04月21日（火）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day58:<br>・ABC-A×1<br>・アマビエGIFサイトを色々いじった（GOODS項目を追加したりTwitterカードやTweeterシェアボタンの設定など）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <br>ノリ始めたらあっという間だな〜 <a href="https://t.co/hCVaGIp6oQ">pic.twitter.com/hCVaGIp6oQ</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1252668815122391041?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote>
+
+### 59日目: 2020年04月22日（水）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day59:<br>・ABC-A×2<br>・GitHubのissueを1つ消化&amp;1つ追加<br>↓の更新(作ったwebsiteの追加)<a href="https://t.co/Ovv8lEVETu">https://t.co/Ovv8lEVETu</a><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1252996151818649601?ref_src=twsrc%5Etfw">April 22, 2020</a></blockquote>
+
+### 60日目: 2020年04月23日（木）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day60:<br>・ABC-A×2<br><br>N予備校また進めようかな🤔 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1253342015489667077?ref_src=twsrc%5Etfw">April 23, 2020</a></blockquote>
+
+### 61日目: 2020年04月24日（金）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day61:<br>・ABC-A×2<br>・N予備校の機械学習入門<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1253700730533195776?ref_src=twsrc%5Etfw">April 24, 2020</a></blockquote>
+
+### 62日目: 2020年04月25日（土）
+**今日の進捗:** <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Day62:<br>・ABC-A×2<br>・N予備校の機械学習入門<br><br>今までAtomをJupyter Notebook風に使ってたけど、今回はJupyter Notebookを直接触って学習を進めてる。<br>シンプルイズベスト的なところあるな...🤔<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; あきはなり (@akihanari) <a href="https://twitter.com/akihanari/status/1254079807677030400?ref_src=twsrc%5Etfw">April 25, 2020</a></blockquote>
 
 --テンプレ--
 ### x日目: 2020年x月xx日（x）
